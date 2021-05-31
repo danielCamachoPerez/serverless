@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "rm -rf public && mkdir public && echo 'Custom Build' > ./public/index.html"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4",
+    "express": "^4.17.1"
+  }
+}
