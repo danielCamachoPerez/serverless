@@ -1,3 +1,17 @@
+# To see this simple blockchain online
+
+https://blockchain-delta.vercel.app/api/block
+
+only has a genesis Block but you can add more!
+
+you can use postman or this frontend and backend repositories.
+
+https://github.com/danielCamachoPerez/blockchain-front
+
+https://github.com/danielCamachoPerez/blockchain-front
+
+# How to use
+
 # Backend Deployed in vercel
 
 This backend has ben created in NodeJs and ExpressJS
@@ -13,7 +27,7 @@ for use in develop
 
 default port set in 3000 with only 
 
-### `npm test`
+### `vercel dev`
 
 # Custom Build Example
 
